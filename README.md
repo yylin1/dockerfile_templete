@@ -1,2 +1,2 @@
-# Dockerize_Templete using sshd
+# Dockerize Templete using sshd
 (TBD)

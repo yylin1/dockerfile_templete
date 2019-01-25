@@ -1,5 +1,5 @@
 # Start with CUDA base image, choose version tag.
-FROM   nvidia/cuda:%VERSION%
+FROM   nvidia/cuda:9.0-cudnn7-devel
 
 RUN apt-get update
 
